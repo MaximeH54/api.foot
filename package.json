@@ -1,7 +1,7 @@
 {
   "name": "api.foot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Project foot dev Alaji 2019",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MaximeH54/api.foot#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
   }
 }
